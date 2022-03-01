@@ -17,7 +17,7 @@ go study 主要是搜集一些 go 的入门阶段小练习，目前练习题的�
   - [读写数据](https://github.com/Eternaldeath/go-study/tree/master/%E8%AF%BB%E5%86%99%E6%95%B0%E6%8D%AE)
   - [协程与通道](https://github.com/Eternaldeath/go-study/tree/master/%E5%8D%8F%E7%A8%8B%E4%B8%8E%E9%80%9A%E9%81%93)
   - 网络
-- 项目实战
+- [项目实战](https://github.com/Eternaldeath/go-study/tree/master/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98)
   - 简单的 kv 存储系统
   - 家庭收支管理
 - 进阶
